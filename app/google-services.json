@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210225064255",
+    "firebase_url": "https://gadgetlog-96dc4-default-rtdb.firebaseio.com",
+    "project_id": "gadgetlog-96dc4",
+    "storage_bucket": "gadgetlog-96dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210225064255:android:906f89009dee689ff90b8a",
+        "android_client_info": {
+          "package_name": "com.pietro.gadgetlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210225064255-074mp6ffku8eu0k9ikr8rsg2m30a3rhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvPz9SO3Cu50gVRy-3D3SBDmQY6eCI60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210225064255-074mp6ffku8eu0k9ikr8rsg2m30a3rhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
